@@ -5,10 +5,12 @@ This is a basic streak counter - inspired by Joe Previte and his inspiration on 
 ## Install
 
 ```shell
-yarn add @guguponce/streak-counter
+npm install @guguponce/streak-counter
 ```
 
-npm install @guguponce/streak-counter
+```shell
+yarn add @guguponce/streak-counter
+```
 
 Usage
 import {streakCounter} from '@guguponce/streak-counter'
